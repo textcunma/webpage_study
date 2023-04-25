@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+.cred{
+     color: red;
+}
+
+button{
+     width: 200px;
+     height: 100px;
+}
+
+#titleImg{
+     width:30%;
+     border-radius: 30px;
+}
+
+a{
+     font-size: small;
+}
